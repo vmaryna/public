@@ -32,7 +32,7 @@ Excluding the secondary minor costs, there are three possible ways to get a blog
    **Platform Services**: This variant is the most common option. Platform services abstract away technical complexity. This option comes at a higher price because the service handles all specialized work and carries the burden of cloud computing. There are some platform services that offer low-cost or free tiers for smaller projects. The focus is on trading costs for convenience.  
 Reference:[The Best Free Blogging Platforms [2024] │Free Blogging Site Options]( https://bloggingplatforms.app/blog/best-free-platforms-for-blogging#free-blogging-site-options) 
   
-Link to the information about [**Blogging platforms**](https://github.com/vmaryna/public/blob/0060eb4729a18afed4fefe88124abc44ebfe5d33/blogging_platforms.md)  
+Link to the information about [**Blogging platforms**](https://github.com/vmaryna/public/blob/0dafd3499db03ba09ec55dd0b6ded0920b21ee97/blogging_platforms.md)   
 
 3. ### Make the Layout (Create Important Pages)
    **7 most important functions of a tech blog:**
