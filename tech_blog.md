@@ -27,8 +27,12 @@ Reference: [How to Start a Tech Blog (Tech Blogging 101 Free Course)](https://ww
  **Hosting.**  
 What methods are available to get a blog for free?  
 Excluding the secondary minor costs, there are three possible ways to get a blog for free in general. Those ways are self-hosting from home, hosting in a cloud service, using a platform service.  
-   ![The variants of hosgitng](https://static.wixstatic.com/media/b917b3_7e7804dc937b4218ab11ddfb20c88fe2~mv2.webp?w=1920&q=50)
-   Reference:[The Best Free Blogging Platforms [2024] │Free Blogging Site Options]( https://bloggingplatforms.app/blog/best-free-platforms-for-blogging#free-blogging-site-options)
+   ![The variants of hosgitng](https://static.wixstatic.com/media/b917b3_7e7804dc937b4218ab11ddfb20c88fe2~mv2.webp?w=1920&q=50)  
+    
+   **Platform Services**: This variant is the most common option. Platform services abstract away technical complexity. This option comes at a higher price because the service handles all specialized work and carries the burden of cloud computing. There are some platform services that offer low-cost or free tiers for smaller projects. The focus is on trading costs for convenience.  
+Reference:[The Best Free Blogging Platforms [2024] │Free Blogging Site Options]( https://bloggingplatforms.app/blog/best-free-platforms-for-blogging#free-blogging-site-options) 
+  
+Link to the information about [**Blogging platforms**](https://github.com/vmaryna/public/blob/4e41d775c645be0928d79969f024ffefb9b32ea3/blogging_platforms.md) 
 
 3. ### Make the Layout (Create Important Pages)
    **7 most important functions of a tech blog:**
