@@ -36,3 +36,5 @@ Source: Perplexity.
 Reference: [Feature Table for Free Blogging Platforms]( https://bloggingplatforms.app/blog/best-free-platforms-for-blogging#choosing-the-best-free-blogging-platform)  
 
 Additional information: [A comparative chart with the free blogging platforms]( https://docs.google.com/spreadsheets/d/1PRdjfhMYlHbK17R3gev0HSQebgRkS04N/edit?usp=sharing&ouid=103723980475604723599&rtpof=true&sd=true)  
+
+Return to the [**Tech Blog Creation: Steps**](https://github.com/vmaryna/public/blob/4e41d775c645be0928d79969f024ffefb9b32ea3/tech_blog.md)
