@@ -16,6 +16,7 @@ Blogging platforms having interaction capabilities such as comments system, foru
 ![Must-Have Features in a Blogging Platform](https://bloggingplatforms.app/media/posts/features-to-look-for-in-a-blogging-platform/features-to-look-for-in-a-blogging-platforms.webp)
   
 Resource: [Best Blogging Platforms for Developers [2024] │ What features to look for in blogging platforms?](https://bloggingplatforms.app/blog/best-blogging-platforms-for-developers#what-features-to-look-for-in-blogging-platforms)  
+Resource: [Must-Have Features to Look for in a Blogging Platform](https://bloggingplatforms.app/blog/features-to-look-for-in-a-blogging-platform#introduction)
 
   **Key Factors to Consider When Choosing a blogging platform**
 -	Audience: Choose platforms with a large tech audience (Dev.to, Medium)
