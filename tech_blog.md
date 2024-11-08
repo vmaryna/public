@@ -35,6 +35,7 @@ Reference:[The Best Free Blogging Platforms [2024] │Free Blogging Site Options
 Link to the information about [**Blogging platforms**](blogging_platforms.md)   
 
 3. ### Make the Layout (Create Important Pages)
+ 
    **7 most important functions of a tech blog:**
 -	**Provide information on technological industry topics**  
 This is crucial for keeping readers informed about the latest developments in the tech world.  
@@ -53,7 +54,7 @@ Providing in-depth analysis helps readers understand the implications and potent
   
    **Main Features a Tech Blog Site Should Have**  
 
-•	Clean and user-friendly design  
+•	Clean and user-friendly **design**  
 •	SEO optimization capabilities  
 •	Analytics integration (e.g., Google Analytics)  
 •	Clear and intuitive navigation menu  
@@ -76,6 +77,10 @@ In the context of tech blogs, RSS (Really Simple Syndication) feeds are a crucia
 •	Fast loading speed  
   
  Link to the table: [the layout table](https://docs.google.com/spreadsheets/d/1O510SvPMWmt4eKRwGrFRmycxvZTpAGC2/edit?usp=sharing&ouid=103723980475604723599&rtpof=true&sd=true).  
+ 
+ **The Design of the Blogging Site**
+
+ **Design** plays a vital role in impressing visitors at first glance and forever. Web design is a primary thing that has a 75% influence on a website’s credibility, and 62% of users engage with a website if it has a good and attractive **layout**. So, web design reflects businesses as a whole.
   
 4. ### Deploy the Site
 
