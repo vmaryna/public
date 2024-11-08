@@ -80,7 +80,7 @@ In the context of tech blogs, RSS (Really Simple Syndication) feeds are a crucia
  
  **The Design of the Blogging Site**
 
- **Design** plays a vital role in impressing visitors at first glance and forever. Web design is a primary thing that has a 75% influence on a website’s credibility, and 62% of users engage with a website if it has a good and attractive **layout**. So, web design reflects businesses as a whole.
+ **Design** plays a vital role in impressing visitors at first glance and forever. Web design is a primary thing that has a 75% influence on a website’s credibility, and 62% of users engage with a website if it has a good and attractive **layout**. So, web design ([**front-end**](Front-end_for_the_blogging_site.md)) reflects businesses as a whole.
   
 4. ### Deploy the Site
 
