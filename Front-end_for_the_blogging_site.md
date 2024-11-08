@@ -27,9 +27,9 @@ The popular responsive design frameworks in 2024 are **Bootstrap**, CSS, Tailwin
 The link to the comparative table: [responsive design frameworks](https://docs.google.com/spreadsheets/d/1h4DFHvEcFe8Yx0rC90Mxt0jzgXazJ_HqzVom4ky3qic/edit?usp=sharing)
 
 
-Due to the research the best front-end framework for the web-dev engine responsive blogging website would be Bootstrap.**
+Due to the research the best front-end framework for the web-dev engine responsive blogging website would be **Bootstrap**.
 
-Use Cases and Examples:*
+Use Cases and Examples:
 
 **Bootstrap** is ideal for rapidly developing prototypes and creating standardized web applications. It’s widely used in corporate websites, **blogs**, and admin dashboards. Examples include the websites for Twitter and LinkedIn, which utilize Bootstrap’s responsive capabilities to ensure optimal performance across devices.
 
